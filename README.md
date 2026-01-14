@@ -29,8 +29,19 @@ Here are a few screenshots of the live site:
 ---
 
 ## 🗂️ Project Structure
-portfolio-website/ ├── index.html ├── about.html ├── projects.html ├── contact.html ├── css/ │   └── style.css ├── images/ │   ├── homepage.png │   ├── about.png │   ├── projects.png │   └── contact.png
----
+portfolio-website/
+├── index.html
+├── about.html
+├── projects.html
+├── contact.html
+├── css/
+│   └── style.css
+├── images/
+│   ├── homepage.png
+│   ├── about.png
+│   ├── projects.png
+│   └── contact.png
+
 
 ## 🚀 Deployment Info
 
