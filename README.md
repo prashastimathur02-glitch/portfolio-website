@@ -29,6 +29,7 @@ Here are a few screenshots of the live site:
 ---
 
 ## 🗂️ Project Structure
+```
 portfolio-website/
 ├── index.html
 ├── about.html
@@ -41,7 +42,7 @@ portfolio-website/
 │   ├── about.png
 │   ├── projects.png
 │   └── contact.png
-
+```
 
 ## 🚀 Deployment Info
 
