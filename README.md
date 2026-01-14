@@ -64,7 +64,7 @@ I’m Prashasti Mathur, currently studying at VIT Bhopal. I’m passionate about
 
 - 📧 Email: prashastimathur02@gmail.com  
 - 💻 GitHub: [@prashastimathur02-glitch](https://github.com/prashastimathur02-glitch)  
-- 🔗 LinkedIn: [linkedin.com/in/prashasti-mathur-69646b324](www.linkedin.com/in/prashasti-mathur-69646b324)
+- 🔗 LinkedIn: [linkedin.com/in/prashasti-mathur-69646b324](https://www.linkedin.com/in/prashasti-mathur-69646b324)
 
 
 ---
